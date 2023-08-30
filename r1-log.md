@@ -1,5 +1,7 @@
 # #100DaysOfCode Log - Round 1 - @lcrojano
 
+lcrojano@gmail.com / lcrojano@uninorte.edu.co
+
 The log of my #100DaysOfCode challenge. Started on [August 27, Sunday, 2023].
 
 ## Log
