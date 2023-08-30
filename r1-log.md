@@ -10,4 +10,8 @@ Started a snake app, I would like to implement canva, and some javascripts basis
 
 ### R1D2
 
-Setting goal for a snake game. The initial steps encompass the creation of a canvas to facilitate the rendering of both the snake and the food elements.  @August 28, Monday, 2023
+The initial steps encompass the creation of a canvas to facilitate the rendering of both the snake and the food elements.  @August 28, Monday, 2023
+
+### R1D3
+
+Snake and food drawed into the canvas, and test functionality of user keypress.  @August 29, Monday, 2023
