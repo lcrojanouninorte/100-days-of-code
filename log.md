@@ -15,3 +15,21 @@
 **Thoughts:** I need to review the canvas manual to remember how to obtain the drawing context.
 
 **Link to work:** n/a
+
+
+### Day 2: August 29, 2023
+
+**Today's Progress** : Implemented canvas in HTML and JavaScript to draw a snake and food on the display.
+
+**Thoughts:** I need to review the canvas manual to remember how to obtain the drawing context.
+
+**Link to work:** n/a
+
+
+### Day 1: August 28, 2023
+
+**Today's Progress** : Implemented canvas in HTML and JavaScript to draw a snake and food on the display.
+
+**Thoughts:** I need to review the canvas manual to remember how to obtain the drawing context.
+
+**Link to work:** n/a
